@@ -56,7 +56,7 @@ Make sure to execute the files in the below order to ensure dependencies are cre
 ```
 SOURCE sql/DDL.sql;
 SOURCE sql/Triggers.sql;
-SOURCE sql/DML_insert.sql;
+SOURCE sql/DML.sql;
 SOURCE sql/Functions.sql;
 SOURCE sql/Procedures.sql;
 ```
