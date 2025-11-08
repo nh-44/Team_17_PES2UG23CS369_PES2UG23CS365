@@ -1,0 +1,55 @@
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs and runtime files
+*.log
+*.pid
+
+# Environment variables / secrets
+.env
+*.env
+.env.*
+
+# SQLite or temporary DBs
+*.sqlite3
+*.db
+
+# Build, dist, and package files
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Temporary or generated files
+*.bak
+*.tmp
+*.swp
+
+# PyInstaller
+*.spec
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Test coverage or pytest cache
+.coverage
+.tox/
+.pytest_cache/
